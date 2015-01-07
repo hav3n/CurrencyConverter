@@ -55,3 +55,6 @@ gradle.properties
 target
 pom.xml.*
 *.jks
+
+#Ignore keys.xml
+app/src/main/res/values/keys.xml
